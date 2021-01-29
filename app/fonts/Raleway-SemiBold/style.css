@@ -1,0 +1,12 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "Raleway-SemiBold";
+  src: url("./fonts/Raleway-SemiBold.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/Raleway-SemiBold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/Raleway-SemiBold.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/Raleway-SemiBold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/Raleway-SemiBold.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/Raleway-SemiBold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

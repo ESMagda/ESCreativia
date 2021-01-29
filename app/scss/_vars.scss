@@ -1,0 +1,9 @@
+$default-font: "Lato-Regular", sans-serif;
+$accent: #505050;
+$breakpoints: (
+  'mphone': 550px,
+  'serv': 650px,
+  'phone': 768px,
+  'tablet': 1024px,
+  'desktop': 1366px
+) !default;
